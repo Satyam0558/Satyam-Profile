@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Dev</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **satyamdev0558@gmail.com**
  <img align="right" alt="coding_boy" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
