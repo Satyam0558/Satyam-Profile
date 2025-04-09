@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
       <img src="https://skillicons.dev/icons?i=java,spring boot, py , cpp, mysql,hibernate"/> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vscode,github,git"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vscode,github,git,node"/>
    
 </div>
 <hr>
