@@ -6,9 +6,10 @@
 
 
 
-- 🔭 I’m currently working on **Sharpening my skills in Front-End Frameworks**
-- 💬 Ask me about **JAVA,SPRING BOOT....**
-- ⚡ Fun fact **Anime has a way of weaving magic into every frame**
+- 💻 I enjoy turning complex problems into simple, beautiful UIs.
+- 🎯 Currently sharpening my skills in **front-end frameworks** and **UI/UX design**.
+- 📚 Always learning and experimenting with the latest web technologies.
+
 
 
 
