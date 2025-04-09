@@ -27,8 +27,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=java,mongo db,spring boot, py , cpp, mysql,hibernate"/> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vscode,github,git,node"/>
+      <img src="https://skillicons.dev/icons?i=java,mongo db,spring boot, py , cpp, mysql,node js,hibernate"/> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vscode,github,git"/>
    
 </div>
 <hr>
